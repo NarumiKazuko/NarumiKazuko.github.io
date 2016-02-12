@@ -1,25 +1,12 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2016-02-12 09:04:12 -0500
-categories: jekyll update
+title:  Introductory Post
+date:   2016-02-5 09:04:12 -0500
+categories: blog
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Hello world!
+This is the first blog post I will be doing over the course of my 20% time project. You may be wondering what my project is or even what a 20% time project is, but don't fret, that's what this blog post is about: introducing my project.
+So, to start, a 20% time project is a project one would normally do at their job. This project would be something that interests them and not necessarily be assigned by any higher-up. The point is to give workers 20% of their time (hence the name, 20% time) to experiment with something that interests them and will benefit their work. My class is adapting this idea into a semester long project that is aimed at helping each of us obtain an internship opportunity.
+For my project, I chose to focus on learning and developing various graphic design items. I have always been interested in graphic design and this was a good opportunity to obtain more experience with it. I would be designing the graphics for various clients (unsure of who exactly those people would be right now) and tweaking them based on the feedback they provide. Originally I was not going to have clients; it was just going to be for practice. But, a good point was brought up about the level of difficulty. If I just did it by myself, I wouldn't have as much of a challenge than I would if I had to adapt to another's suggestion. Valid point. That's just about it for now. I'm only just getting started on the project, so I'm sure there will be plenty of exciting things to blog about in the future.
+See you then!
+-Joseph Camacho-Roy
