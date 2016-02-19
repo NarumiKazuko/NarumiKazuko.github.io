@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Introductory Post
-date:   2016-02-5 09:04:12 -0500
+date:   2016-02-5
 categories: blog
 ---
 <p>Hello world!</p>

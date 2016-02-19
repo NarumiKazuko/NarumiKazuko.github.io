@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Starting up...
-date:   2016-02-12 09:04:12 -0500
+date:   2016-02-12
 categories: blog
 ---
 Hello again!

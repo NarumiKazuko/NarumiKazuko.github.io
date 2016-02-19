@@ -1,0 +1,7 @@
+---
+layout: post
+title: Slow Week
+date:   2016-02-19
+categories: blog
+---
+Another week, another blog post.
