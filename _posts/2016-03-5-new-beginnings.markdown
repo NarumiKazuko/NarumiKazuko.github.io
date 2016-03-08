@@ -16,7 +16,7 @@ So, what's my new project? Well, it's not finalized yet as I have some things to
 
 Now, things aren't final, but they're close. I'm glad most of the issues have been dealt with, or at least addressed. Spring break is coming up, so that'll give me some good time to work on the story and possibly the roughs of the UI.
 
-It looks like I'm back in the red.
+It looks like I'm back in the black.
 
 Cheers,
 
