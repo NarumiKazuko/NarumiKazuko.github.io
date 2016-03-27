@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ideas...
-date:   2016-03-5
+date:   2016-03-25
 categories: blog
 ---
 Hello and welcome back!
