@@ -1,0 +1,21 @@
+---
+layout: post
+title: Ideas...
+date:   2016-03-5
+categories: blog
+---
+Hello and welcome back!
+
+It's been a while since I've updated this blog, huh. During the few weeks where I didn't post, many things were happening. Not everything was related to this project, but there were certainly things that did.
+
+First: spring break. Now, you might be wondering how this relates to my project. Well, it doesn't directly, but it did give me a lot of time to idle on the story for my project. Do I have a completed story now? Definitely not, but I do have a few ideas that I think could work out for me. This is great, as I often have trouble thinking of ideas for projects like this.
+
+Second: Adobe released Adobe Experience Design CC (formerly Project Comet). Now, I had no idea this existed until Adobe nicely sent me an email about it. Basically, Adobe XD is an application designed specifically for graphic and UX design, which is amazing because my project has a lot to do with that stuff. Also, I really like Adobe's software; it's powerful and relatively easy to use. I tried it out a little, and there is a learning curve, but it's nothing I can't handle. One of the biggest advantages to using Adobe XD is that you can create a prototype. A prototype with animations and everything. It's really cool, and this alone gives me so many more ways to tell my story. The only disadvantage is that it's only for OSX right now. I have a computer with OSX, so I'm fine, it's just not at powerful as my actual work computer.
+
+So, in summary, spring break gave me ideas, and Adobe XD is awesome.
+
+Simple yet effective.
+
+Cheers,
+
+Joseph Camacho-Roy
