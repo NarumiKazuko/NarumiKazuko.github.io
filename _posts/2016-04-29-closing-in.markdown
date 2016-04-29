@@ -1,0 +1,15 @@
+---
+layout: post
+title: Closing In...
+date:   2016-04-29
+categories: blog
+---
+Hello and welcome back!
+
+**I'm currently working on this blog post. This is not done, please do not grade this yet.**
+
+This week has been huge for my project. The content is very close to being completed; it's about 90% done currently. Once the last few sections are completed and it gets edited, it'll basically be ready for insertion into the product. Awesome! Another big thing that's happened for the project this week is the actual product. I've been working on the storyboard, which is nearly complete now. That means that this weekend, which is a four-day weekend for me, I can translate the storyboard into a first-draft of the product. A *very real, very tangible* first-draft.
+
+Cheers,
+
+Joseph Camacho-Roy
