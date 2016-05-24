@@ -1,0 +1,65 @@
+---
+layout: post
+title: The End.
+date:   2016-05-23
+categories: blog
+---
+Hello and welcome back!
+
+This is going to be the final post regarding my 20% time project. It's been a long process, but I'm finally at the end. I'm going to answer a few reflection questions, then I'll give a download to the finished product. So, without further ado, here they are:
+
+**Backward-Looking:**
+- How much did you know about the subject before we started?
+I had two main subjects throughout the year: *pure* graphic design and *presentation* graphic design.
+For pure graphic design, which means designing UI and other graphics in this case, I didn't really know a whole lot. I did already know about the basics of design, such as color, line, shape, etc. but I didn't know a whole lot about incorporating them into my actual work. I also already knew how to use Photoshop and Illustrator, but not to the extent that I wanted to be able to; I could use their basic functions, but I did not know how to do advanced operations.
+Regarding presentation graphic design, which means designing things to be presented in this case, I knew a bit more. I'm well versed in PowerPoint, and I'm confident in my ability to create advanced presentations. Of course, there's always room for improvement, and that was what I was aiming for during the project.
+
+- In what ways have you gotten better at this kind of work?
+I think I improved overall, but the main thing that I saw improvement with was working with another. In most of the projects I have done that require creating a presentation, I often have quite a bit of control over the content. In this project, I was basically contracted to my partner, and whatever he gave me, I had to find a way to insert it the way it was. It was a challenge, but I think it really helped me improve in that category especially because it was something that I don't have to do often.
+
+- In what ways do you think you need to improve?
+I think the hardest thing I had to deal with during the project, and really most projects I do, was time management. It wasn't as bad as it could have been with this project, but I definitely wish I would have done it more properly. I tend to get stuck on the small details before I'm done with the basic draft which really ends up hurting me later on. Creative work is hard, as I'm a pretty harsh self critic. It's hard to suppress as well, as the designer inside me has a hard time keeping quiet when there are things that could be improved, even if it's more efficient to change it later.
+
+**Inward-Looking:**
+- What was especially satisfying to you about either the process or the finished product?
+I'm going to be completely honest, the process was not satisfying. But the finished product? A totally different story. Both my partner and I agree that the final product was surprising. We both had a reaction of "wow, we created this?" Amazingly satisfying, and one of the best feelings you can get during a project. I probably had the stupidest smile on my face when right after I finished the design, and it was *great*.
+
+- What were your goals for meeting this piece of work? Did your goals change as you worked on it? Did you meet your goals?
+My main goal was to improve my design skills and, later on when I partnered up, to work on a contract. My goals never really changed as I worked, but the mode of how I was going to achieve them did. I changed mediums completely and followed a whole different set of rules, but the basic premise was still there. As for meeting them, I think I did well enough. I could have done better, but for a first attempt, I think it was good enough. I learned new design tricks, as well as learned more about working on a contract than I thought I was going to, which counts as a success in my book.
+
+- What does that tell you about yourself and how you learn?
+This project really solidified my idea that I need hands-on things to really learn. For the first time, I storyboarded the presentation on paper, which was an interesting process. I think it was helpful and invited more collaboration, but I quickly figured out that I needed to actually convert those ideas into the real medium to see if they would work. Unfortunately for me, just having it drawn on paper isn't enough; I need to see it and be able to touch it (interact with it) if I really want to learn from it.
+
+**Outward-Looking:**
+- Did you do your work the way other people did theirs?
+I'm not exactly sure how the others managed their work, but I think I did mine differently. What I mostly saw others doing was something like this: plan for short amount of time (a day or less), then work for slightly longer amount of time (~1 hour each day or so). What I did was this: plan for long amount of time (1 week or longer), then work for one long super-efficient block of time (at least 4 hours). That's normally how my creative work ends up happening as well, and the same happens with writing. My most productive sessions are long and come after a long time of productive drought. Often times my best work comes out of those sessions as well.
+
+- What the one thing you particularly want people to notice when they look at your work?
+What I want people to notice is two things, both of which are not explicitly stated, the first being that it was a team effort. I want the people who use the product to know that it was created because of a team effort. I don't like to brag, but I think the product turned out quite well. But, it couldn't have happened without the team effort. I want people to realize this, and realize that great things come from mutual work.
+The second thing I want people to realize is that people want you to succeed. Our project is only a small piece, but if it helps even just one person, I will be happy. I want people to know that. I want people to know that the world wants you to do well, and that people will very often go out of their way to help you get where you want to be.
+
+- In what ways did your work meet the standards for this assignment? In what ways did it not meet those standards?
+I think my work met mostly all of my standards for the project. I worked under a contract as well as I hoped I would, I created a product I was proud of, and I created a product that wasn't just going to end up in my archive (it's actually usable). The one thing that I didn't meet was my time management standard. I already talked about this in a previous question, but I didn't manage my time as well as I wanted to. It wasn't a disaster, but it was something that I wish I had done a better job with.
+
+**Forward-Looking:**
+- What would you change if you had a chance to do this piece over again?
+Surprisingly, almost nothing. Besides my time management, the project went excellently. The one thing I would want to change may be the design of some of the parts; I already have new ideas on how to improve them. Though, the product is a living piece of work, so I wouldn't be against going back and revising it. Who knows? It could even be passed on to a new designer.
+
+- What's one goal you would like to set for yourself for next time?
+Plan better. I didn't plan poorly, but I think the efficiency of the project, as well as some of the quality, was compromised because of my planning. I want to use a physical planner as well, as I have seen many things that show the benefits of using an actual physical planner, which is actually something I learned during my project.
+
+- What advice would you share with future students completing a 20% Project?
+Plan from the start and try your best to use good time management. I know you're tired of hearing about time management, but I promise this is the last time you hear about it. Anything, *anything*, is doable when good time management is utilized. I really hate when my product is stunted by my poor time management, and I'd hate to see others suffer the same fate. Everyone can do amazing things, it just takes time, well managed time, to achieve them.
+
+I hope those questions gave you good insight about what I experienced and took away over the course of the project. As promised, [here's a link to the final product][presentation]; you'll need PowerPoint to view it properly, preferably 2016 or above. While not everything worked out as planned, I think the project was a valuable experience and a lot can be taken away from it.
+
+Now, I'd like to end with a quote:
+
+######Even if you’re on the right track, you’ll get run over if you just sit there.
+######- Will Rodgers
+
+Cheers,
+
+Joseph Camacho-Roy
+
+[presentation]: https://drive.google.com/file/d/0B66islTbj_R-bkJRWlE1blJiSDg/view?usp=sharing
